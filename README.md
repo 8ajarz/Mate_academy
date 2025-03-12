@@ -1,2 +1,2 @@
 # Mate_academy
-LEarning  projects
+Learning  projects
